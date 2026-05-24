@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1920" height="1140" alt="Screenshot 2026-05-13 120112" src="https://github.com/user-attachments/assets/21f9f474-b623-499d-baa7-cc13fa04cad3" />
+
 ## Output
+<img width="1920" height="1200" alt="Screenshot 2026-05-13 120055" src="https://github.com/user-attachments/assets/9f136440-fa02-49cc-b03f-6a14b576b669" />
+
 ## Result
+The simulation done successfully.
